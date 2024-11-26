@@ -1,0 +1,13 @@
+package com.Project.LibaryManagmentSystem;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LibaryManagmentSystemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LibaryManagmentSystemApplication.class, args);
+	}
+
+}
